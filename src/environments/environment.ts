@@ -1,6 +1,6 @@
 export const environment = {
   production: false,
   baseHref: '',
-  apiUrl: 'http://localhost:8888/api',
-  apiSocket : 'ws://localhost:8888/socket'
+  apiUrl: 'http://localhost:8080/api',
+  apiSocket : 'ws://localhost:8080/socket'
 };
